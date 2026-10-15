@@ -1,2 +1,26 @@
-# kintone-excel-work-plugin
-Excelワーク for kintone の無料版配布。Excelへの入力・再計算・帳票出力をレコード画面から。
+# Excelワーク for kintone
+
+Excelを開かず、計算から帳票作成まで。kintoneの項目・明細をExcelテンプレートへ入力し、対応関数を再計算して帳票をレコードへ保存するプラグインです。
+
+このリポジトリは **Free版の配布専用**です。開発ソースは収録していません。
+
+## ダウンロードと導入
+
+[最新の配布ファイル](https://github.com/youtotto/kintone-excel-work-plugin/releases/latest)から `excel-work-1.0.0-free-bundle.zip` を取得して展開し、中の **`excel-work-1.0.0-free.zip`** をkintoneへ読み込んでください。GitHubが自動生成する「Source code」のZIPはインストール用ではありません。
+
+バンドルには説明書、架空データのExcelサンプル、第三者ライセンス、SHA-256の一覧を同梱しています。
+
+## FreeとPro
+
+FreeはExcelへの入力・対応関数の再計算・Excel出力と添付に機能を絞った版です。計算結果のkintoneへの取り込み、PDF出力、添付Excelのグラフ表示はProで利用できます。
+
+Proは税込11,000円、1ドメイン単位・買い切り。試用は1か月間（ライセンス発行から30日）です。
+
+## 導入前の確認
+
+- PC版kintoneのレコード詳細画面、.xlsxファイルが対象です。
+- Excelの全関数・全機能や印刷結果の完全な再現には対応しません。お使いのテンプレートで計算とレイアウトを確認してください。
+- Free・試用版・Proは同一プラグインIDです。版の入替えは同じドメイン内の利用アプリ全体に反映されます。Freeへ入れ替えてもPro設定は保持されますが、Pro機能は実行されません。
+- サンプルはPDF出力向けに最適化していません。必要に応じてExcelで印刷範囲・用紙・縮小設定を調整してください。
+
+提供：Nest Rec。詳しい操作と対応範囲は同梱説明書をご確認ください。
