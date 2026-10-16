@@ -6,7 +6,7 @@ Excelを開かず、計算から帳票作成まで。kintoneの項目・明細�
 
 ## ダウンロードと導入
 
-[最新の配布ファイル](https://github.com/youtotto/kintone-excel-work-plugin/releases/latest)から `excel-work-1.0.0-free-bundle.zip` を取得して展開し、中の **`excel-work-1.0.0-free.zip`** をkintoneへ読み込んでください。GitHubが自動生成する「Source code」のZIPはインストール用ではありません。
+[最新の配布ファイル](https://github.com/youtotto/excel-work/releases/latest)から `excel-work-1.0.0-free-bundle.zip` を取得して展開し、中の **`excel-work-1.0.0-free.zip`** をkintoneへ読み込んでください。GitHubが自動生成する「Source code」のZIPはインストール用ではありません。
 
 バンドルには説明書、架空データのExcelサンプル、第三者ライセンス、SHA-256の一覧を同梱しています。
 
